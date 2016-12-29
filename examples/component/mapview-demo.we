@@ -1,0 +1,3 @@
+<template>
+    <mapview style="width: 750;"></mapView>
+</template>

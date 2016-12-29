@@ -1,0 +1,31 @@
+// import components.
+import Image from './components/image'
+import Text from './components/text'
+import Scrollable from './components/scrollable'
+import Slider from './components/slider'
+import Indicator from './components/indicator'
+import Tabheader from './components/tabheader'
+import Input from './components/input'
+import Textarea from './components/textarea'
+import Video from './components/video'
+import Switch from './components/switch'
+import A from './components/a'
+import Embed from './components/embed'
+import Spinner from './components/spinner'
+import Web from './components/web'
+
+// import apis.
+import Animation from './api/animation'
+import Clipboard from './api/clipboard'
+import Dom from './api/dom'
+import Event from './api/event'
+import Geolocation from './api/geolocation'
+import GlobalEvent from './api/globalEvent'
+import Modal from './api/modal'
+import Navigator from './api/navigator'
+import PageInfo from './api/pageInfo'
+import Storage from './api/storage'
+import Stream from './api/stream'
+import Webview from './api/webview'
+
+export default { Image, Text, Scrollable, Slider, Indicator, Tabheader, Input, Textarea, Video, Switch, A, Embed, Spinner, Web, Animation, Clipboard, Dom, Event, Geolocation, GlobalEvent, Modal, Navigator, PageInfo, Storage, Stream, Webview }
